@@ -1,15 +1,15 @@
 1)Admin Functionality:
 
-->Admin login and dashboard.
-->Customer registration and management.
-->Account closure and transaction history.
-->Customer Functionality:
+>Admin login and dashboard.
+>Customer registration and management.
+>Account closure and transaction history.
+>Customer Functionality:
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 2)Customer login and dashboard.
-->Deposit, withdrawal, and balance management.
-->Transaction history and account closure.
-->Project Structure
+>Deposit, withdrawal, and balance management.
+>Transaction history and account closure.
+>Project Structure
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 3)The project follows a structured MVC (Model-View-Controller) architecture:
